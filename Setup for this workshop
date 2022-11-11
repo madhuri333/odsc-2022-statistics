@@ -1,0 +1,18 @@
+We will be working through examples where we generate simulated data and apply statistical methods to those results.
+
+We will walk through the steps one needs to take to effectively explore, validate, and analyze a new dataset.
+
+The bulk of the work will be in the python notebooks in this GitHub repo: https://github.com/zirmite/odsc-2022-statistics
+
+You will need to have git installed on your laptop:https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+
+And then run the following in a terminal:
+git clone https://github.com/zirmite/odsc-2022-statistics
+
+This will copy the files from the repo to your machine. 
+
+Once those files are there you can use them as a reference or if you want to follow along during the tutorial:
+
+Use pipenv to both install dependencies and set up a virtual environment in which to run the code. First you’ll need to install pipenv. Then you can run pipenv install to install all the dependencies listed in the Pipfile. 
+
+Set jupyter running using either pipenv run jupyter lab or jupyter lab. 
